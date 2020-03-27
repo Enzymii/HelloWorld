@@ -1,4 +1,4 @@
-#!./bin/sh
+#!/bin/sh
 
 # Install ss from pip.
 yum install python-setuptools
